@@ -8,8 +8,8 @@ We have provided an oriented study material with detailed mathematical and theor
 ### *Context*
 You can visit our [Git Hub Page](https://github.com/Phoenix9801/QIntern-ZX-Calculus-demo) for an organised view.
 The contents listed and that would be covered are -
-1. [Chapters](https://github.com/Phoenix9801/QIntern-ZX-Calculus-demo) for an organised view.
-2. [Codes](https://github.com/Phoenix9801/QIntern-ZX-Calculus-demo) for an organised view.
+1. [Chapters](https://github.com/Phoenix9801/QIntern-ZX-Calculus-demo/tree/main/Chapters) explaining the theoretical and mathematical models.
+2. [Codes](https://github.com/Phoenix9801/QIntern-ZX-Calculus-demo/tree/main/Codes) codes for the same exercises are mentioned. 
 
 ## *CONTACT US*
 You can contact us anytime and we will try our best to respond as quickly is possible. If you wish to contact us you can contact us through the following mail id blah@blah.blah or fill up the following form. 
