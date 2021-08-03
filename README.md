@@ -14,7 +14,9 @@ You can contact us anytime and we will try our best to respond as quickly is pos
          method = "POST">
       <p>Name: </p><input type = "text" name="name"><br />
       <p>Email: </p><input type="email" name="_replyto"><br/>
-      <p>Comment: </p><input type = "text" name="comment"><br />
+      <p>Comment: </p><input type = "text" name="comment"><br/>
+      <input type = "submit" value="Send">
+      
 </form>
   </body>
 </html>
