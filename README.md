@@ -5,3 +5,16 @@ This is an attempt to provide an online as well as an application platform for e
 ## *ZX CALCULUS*
 We have provided an oriented study material with detailed mathematical and theoretical model of the application of the ZX Calculus. We have devided the contents in 3 modes focusing on the contents and the codes. We are going to use PyZX to program the codes for ZX Calculus. 
 
+### *CONTACT US*
+You can contact us anytime and we will try our best to respond as quickly is possible. If you wish to contact us you can contact us through the following mail id blah@blah.blah or fill up the following form. 
+
+<html>
+  <body>
+    <form action = "//formspree.io/subhojith90@gmail.com"
+         method = "POST">
+      <p>Name: </p><input type = "text" name="name"><br />
+      <p>Email: </p><input type="email" name="_replyto"><br/>
+      <p>Cpmment: </p><input type = "text" name="comment"><br />
+</form>
+  </body>
+</html>
