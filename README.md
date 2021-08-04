@@ -16,12 +16,25 @@ You can contact us anytime and we will try our best to respond as quickly is pos
 
 <html>
   <body>
-    <form action="https://formspree.io/f/mdoywwdr"
-      method="POST">
-      <p>Name: </p><input type"text" name="name"><br/>
-      <p>Email: </p><input type"email" name="_replyto"><br/> 
-      <p>Message: </p><input type"textarea" name="message"><br/>
-      <input type"submit" name="Send">
+<form
+  action="https://formspree.io/f/mdoywwdr"
+  method="POST"
+>
+  <label>
+    Name:
+    <textarea name="name"></textarea>
+  </label>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <button type="submit">Send</button>
+</form>
 </form>
   </body>
 </html>
