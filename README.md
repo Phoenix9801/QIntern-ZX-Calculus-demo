@@ -14,18 +14,15 @@ The contents listed and that would be covered are -
 ## *CONTACT US*
 You can contact us anytime and we will try our best to respond as quickly is possible. If you wish to contact us you can contact us through the following mail id blah@blah.blah or fill up the following form. 
 
-<html>
-  <body>
-<form
-  action="https://formspree.io/f/mdoywwdr"
-  method="POST"
->
-      <p>Name: </p><input type"text" name="name"><br/>
-      <p>Email: </p><input type"email" name="_replyto"><br/> 
-      <p>Message: </p><input type"textarea" name="message"><br/>
-      <input type"submit" name="Send">
-
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mdoywwdr" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Full Name</label>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+    <label for="email-address">Email Address</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <label for="message">Message</label>
+    <textarea rows="5" name="message" id="message" placeholder="Tell us how we can help you or any comments that you would like to share with us." required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+  </fieldset>
+  <input type="submit" value="Submit">
 </form>
-  </body>
-</html>
- 
