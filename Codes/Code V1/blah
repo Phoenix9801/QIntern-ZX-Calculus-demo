@@ -1,0 +1,4 @@
+      <p>Name: </p><input type"text" name="name"><br/>
+      <p>Email: </p><input type"email" name="_replyto"><br/> 
+      <p>Message: </p><input type"textarea" name="message"><br/>
+      <input type"submit" name="Send">
