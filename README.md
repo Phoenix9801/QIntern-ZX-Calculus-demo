@@ -20,20 +20,11 @@ You can contact us anytime and we will try our best to respond as quickly is pos
   action="https://formspree.io/f/mdoywwdr"
   method="POST"
 >
-  <label>
-    Name:
-    <textarea name="name"></textarea>
-  </label>
-  <label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
+      <p>Name: </p><input type"text" name="name"><br/>
+      <p>Email: </p><input type"email" name="_replyto"><br/> 
+      <p>Message: </p><input type"textarea" name="message"><br/>
+      <input type"submit" name="Send">
 
-  <button type="submit">Send</button>
 </form>
   </body>
 </html>
