@@ -14,24 +14,15 @@ The contents listed and that would be covered are -
 ## *CONTACT US*
 You can contact us anytime and we will try our best to respond as quickly is possible. If you wish to contact us you can contact us through the following mail id blah@blah.blah or fill up the following form. 
 
-
-<form
-  action="https://formspree.io/f/mdoywwdr"
-  method="POST"
->
-  <label>
-    Your Name:
-    <textarea name="Name"></textarea><br/>
-  </label>
-  <label>
-    Your email:
-    <input type="email" name="_replyto">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea><br/>
-  </label>
-
-
-  <button type="submit">Send</button><br/>
+<html>
+  <body>
+    <form action="https://formspree.io/f/mdoywwdr"
+      method="POST">
+    <p>Name: </p><input type"text" name="name"><br/>
+    <p>Email: </p><input type"email" name="_replyto"><br/> 
+    <p>Message: </p><input type"textarea" name="message"><br/>
+    <input type"submit" name="Send">
 </form>
+    </body>
+</html>
+ 
