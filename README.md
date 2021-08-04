@@ -21,7 +21,7 @@ You can contact us anytime and we will try our best to respond as quickly is pos
 >
   <label>
     Your Name:
-    <textarea name="Name"></textarea>
+    <textarea name="Name"></textarea></br>
   </label>
   <label>
     Your email:
@@ -29,9 +29,9 @@ You can contact us anytime and we will try our best to respond as quickly is pos
   </label>
   <label>
     Your message:
-    <textarea name="message"></textarea>
+    <textarea name="message"></textarea></br>
   </label>
 
 
-  <button type="submit">Send</button>
+  <button type="submit">Send</button></br>
 </form>
