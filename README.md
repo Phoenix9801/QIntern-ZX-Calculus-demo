@@ -35,7 +35,6 @@ You can contact us anytime and we will try our best to respond as quickly is pos
 
   <button type="submit">Send</button>
 </form>
-</form>
   </body>
 </html>
  
