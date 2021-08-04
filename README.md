@@ -5,6 +5,14 @@ This is an attempt to provide an online as well as an application platform for e
 ## *ZX CALCULUS*
 We have provided an oriented study material with detailed mathematical and theoretical model of the application of the ZX Calculus. We have devided the contents in 2 modes focusing on the Chapters where the theoretical and mathematical models of **Quantum Computing Using ZX Calculus** is explained and second where the codes for the same are explained in a self explainatory Jupyter Notebook. We are going to use PyZX to program the codes for ZX Calculus. 
 
+## INSTALLATION 
+If you wish to use PyZX as a Python module for use in other projects, we recommend installing via pip:
+```
+    pip install pyzx
+```
+
+PyZX has no strict dependencies, although some functionality requires numpy. PyZX is built to interact well with Jupyter, so we additionally recommend you have Jupyter and matplotlib installed.
+
 ### *Context*
 You can visit our [Git Hub Page](https://github.com/Phoenix9801/QIntern-ZX-Calculus-demo) for an organised view.
 The contents listed and that would be covered are -
