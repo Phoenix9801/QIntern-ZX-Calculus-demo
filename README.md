@@ -18,11 +18,11 @@ You can contact us anytime and we will try our best to respond as quickly is pos
   <body>
     <form action="https://formspree.io/f/mdoywwdr"
       method="POST">
-    <p>Name: </p><input type"text" name="name"><br/>
-    <p>Email: </p><input type"email" name="_replyto"><br/> 
-    <p>Message: </p><input type"textarea" name="message"><br/>
-    <input type"submit" name="Send">
+      <p>Name: </p><input type"text" name="name"><br/>
+      <p>Email: </p><input type"email" name="_replyto"><br/> 
+      <p>Message: </p><input type"textarea" name="message"><br/>
+      <input type"submit" name="Send">
 </form>
-    </body>
+  </body>
 </html>
  
