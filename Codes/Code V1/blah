@@ -1,3 +1,21 @@
+        <label>
+    Name:
+    <textarea name="name"></textarea>
+  </label>
+  <label>
+    Your email:
+    <input type="email" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+
+  <button type="submit">Send</button>
+      
+      
+      
+      
       <p>Name: </p><input type"text" name="name"><br/>
       <p>Email: </p><input type"email" name="_replyto"><br/> 
       <p>Message: </p><input type"textarea" name="message"><br/>
